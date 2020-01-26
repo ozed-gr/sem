@@ -1,10 +1,7 @@
-=======
 
-Sub-heading
------------
 
-Paragraphs are separated
-by a blank line.
+# READ ME Tutorial
+
 
 Two spaces at the end of a line  
 produces a line break.
@@ -17,22 +14,15 @@ Horizontal rule:
 ---
 
 Strikethrough:
-~~strikethrough~~
-
-Bullet list:
-
-  * apples
-  * oranges
-  * pears
-
-Numbered list:
-
-  1. lather
-  2. rinse
-  3. repeat
+~~stop~~
 
 An [example](http://example.com).
 
 > Markdown uses email-style > characters for blockquoting.
+# Software Engineering Methods
 
-Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.
+- Master Build Status [![Build Status](https://travis-ci.org/ozed-gr/sem.svg?branch=master)](https://travis-ci.org/ozed-gr/sem)
+- License [![LICENSE](https://img.shields.io/github/license/ozed-gr/sem.svg?style=flat-square)](https://github.com/ozed-gr/sem/blob/master/LICENSE)
+- Release [![Releases](https://img.shields.io/github/release/ozed-gr/sem/all.svg?style=flat-square)](https://github.com/ozed-gr/sem/releases)
+
+
