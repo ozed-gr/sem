@@ -1,10 +1,15 @@
+# super user
 sudo: required
 
 language: java
 
+# services we want available in our build
 services:
   - docker
 
+# after successful execution do..
 after_success:
+# build the Docker Image
   - docker build -t se_methods .
+# run an instance of the image
   - docker run se_methods
